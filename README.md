@@ -1,6 +1,6 @@
-# SW-CPU-Rockchip-USB-3.0-18
+# SW-CPU-Rockchip-USB-3.2-18
 
-Here is USB3.0 speed test with Radxa CM5.
+Here is USB3.2 speed test with Radxa CM5.
 
 ## 1. Connect your device
 
@@ -12,6 +12,6 @@ Here is USB3.0 speed test with Radxa CM5.
 
 (Test Results)
 
-Radxa CM5 USB3.0
+Radxa CM5 USB3.2
 
 Ceyhun Pempeci
