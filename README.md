@@ -10,7 +10,11 @@ Here is USB3.2 speed test with Radxa CM5.
 
 <img width="1161" alt="test" src="https://github.com/user-attachments/assets/381644cf-66e5-4ad9-a45b-039fe6f30935" />
 
-(Test Results)
+(Read Test)
+
+<img width="1208" alt="write test" src="https://github.com/user-attachments/assets/3ebcc822-e944-48cf-b7f1-f84892e3cd10" />
+
+(Write Test)
 
 Radxa CM5 USB3.2
 
